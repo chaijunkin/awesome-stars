@@ -8,6 +8,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CSS](#css)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
@@ -60,6 +61,10 @@
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Multi-platform app that allows your devices to communicate
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
+
+## CSS 
+
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 
 ## Dart 
 
