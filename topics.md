@@ -38,6 +38,7 @@
 - [emulator](#emulator)
 - [express](#express)
 - [finance](#finance)
+- [firefox](#firefox)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [framework](#framework)
@@ -314,6 +315,10 @@
 - [victorbalssa/abacus](https://github.com/victorbalssa/abacus) - 🟠 Abacus: Firefly III mobile application.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+
+## firefox 
+
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 
 ## flutter 
 
