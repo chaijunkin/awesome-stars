@@ -107,6 +107,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [svelte](#svelte)
+- [swift](#swift)
 - [swiftui](#swiftui)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -152,6 +153,7 @@
 
 ## angular 
 
+- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 
 ## ansible 
@@ -566,6 +568,7 @@
 
 ## macos 
 
+- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 - [ryan4yin/nix-darwin-kickstarter](https://github.com/ryan4yin/nix-darwin-kickstarter) - macOS as Code! A beginner-friendly nix-darwin + home-manager + flakes startup configuration. 一份易于理解的 nix-darwin 初始配置模板，专为新手制作.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [enfp-dev-studio/node-mac-virtual-display](https://github.com/enfp-dev-studio/node-mac-virtual-display) - A Node native module to create virutal display of macOS
@@ -847,6 +850,10 @@
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+
+## swift 
+
+- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 
 ## swiftui 
 
