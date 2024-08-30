@@ -18,6 +18,7 @@
 - [JavaScript](#javascript)
 - [Jsonnet](#jsonnet)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
 - [Nix](#nix)
@@ -32,7 +33,6 @@
 - [Swift](#swift)
 - [Text](#text)
 - [TypeScript](#typescript)
-- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## C 
@@ -179,6 +179,10 @@
 - [aniyomiorg/aniyomi-extensions](https://github.com/aniyomiorg/aniyomi-extensions) - Source extensions for the Aniyomi app.
 - [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) - An app for manga and anime
 
+## Lua 
+
+- [JJGadgets/Biohazard](https://github.com/JJGadgets/Biohazard) - Watch your step, this playground might be hazardous 'round here… | JJGadgets' HomeLab monorepo
+
 ## Markdown 
 
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
@@ -315,10 +319,6 @@
 - [danmanners/aws-argo-cluster-template](https://github.com/danmanners/aws-argo-cluster-template) - A community opinionated template for deploying Kubernetes clusters on-prem and in AWS using Pulumi, SOPS, Sealed Secrets, GitHub Actions, Renovate, Cilium and more!
 - [danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster) - Dan's Homelab Kubernetes Cluster - Operated through Kustomize & ArgoCD
 - [ffddorf/netbox-vault-secrets](https://github.com/ffddorf/netbox-vault-secrets) - Work In Progress!
-
-## Vim Script 
-
-- [JJGadgets/Biohazard](https://github.com/JJGadgets/Biohazard) - Watch your step, this playground might be hazardous 'round here… | JJGadgets' HomeLab monorepo
 
 ## Vue 
 
