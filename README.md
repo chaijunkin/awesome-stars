@@ -133,7 +133,7 @@
 - [chaijunkin/old-home-ops](https://github.com/chaijunkin/old-home-ops) - Home service cluster
 - [Neutrollized/free-tier-gke](https://github.com/Neutrollized/free-tier-gke) - Get your very own GKE cluster for next to nothing!
 - [larivierec/home-cluster](https://github.com/larivierec/home-cluster) - k3s cluster using gitops (flux) and renovate automation
-- [bernd-schorgers/home-ops](https://github.com/bernd-schorgers/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
+- [bjw-s/home-ops](https://github.com/bjw-s/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [clayshek/homelab-monorepo](https://github.com/clayshek/homelab-monorepo) - Home lab infrastructure as code repo.
 
 ## HTML 
@@ -285,7 +285,7 @@
 
 ## Smarty 
 
-- [bernd-schorgers/helm-charts](https://github.com/bernd-schorgers/helm-charts) - A collection of Helm charts
+- [bjw-s/helm-charts](https://github.com/bjw-s/helm-charts) - A collection of Helm charts
 
 ## Swift 
 
