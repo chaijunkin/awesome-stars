@@ -265,6 +265,7 @@
 
 ## Shell 
 
+- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
 - [PacktPublishing/Kubernetes-An-Enterprise-Guide-Third-Edition](https://github.com/PacktPublishing/Kubernetes-An-Enterprise-Guide-Third-Edition) - Kubernetes – An Enterprise Guide, Third Edition - Published by Packt
 - [perryhuynh/homelab](https://github.com/perryhuynh/homelab) - Homelab GitOps Repository
 - [h-wb/home-ops](https://github.com/h-wb/home-ops) - Gitop driven Homelab with Kubernetes and Flux
