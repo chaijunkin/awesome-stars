@@ -146,6 +146,7 @@
 
 ## Java 
 
+- [ginkage/wearmouse](https://github.com/ginkage/wearmouse) - Wear OS Air Mouse
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [MewX/light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) - [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的Material Design风格、无广告、不盈利、Google Play上安装包最小的轻小说阅读器(light novel reader)。目前除了网站的API以外，还添加了我自己架的Cloudflare Worker 中继节点用来突破网站API的限制 wenku8-rela
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
