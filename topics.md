@@ -676,6 +676,9 @@
 
 ## others 
 
+- [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- [luigi311/JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched) - Sync watched between jellyfin and plex locally
 - [ginkage/wearmouse](https://github.com/ginkage/wearmouse) - Wear OS Air Mouse
 - [selkhateeb/hardlink](https://github.com/selkhateeb/hardlink) - a simple command-line utility that implements hardlinks on Mac OsX
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
