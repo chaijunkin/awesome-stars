@@ -35,6 +35,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
+- [dotnet](#dotnet)
 - [electron](#electron)
 - [emulator](#emulator)
 - [express](#express)
@@ -243,6 +244,7 @@
 
 ## csharp 
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [BrianLima/UWPHook](https://github.com/BrianLima/UWPHook) - 🔗 Add your Windows Store or UWP games to Steam
 
 ## dart 
@@ -306,6 +308,10 @@
 ## dotfiles 
 
 - [ryan4yin/nix-darwin-kickstarter](https://github.com/ryan4yin/nix-darwin-kickstarter) - macOS as Code! A beginner-friendly nix-darwin + home-manager + flakes startup configuration. 一份易于理解的 nix-darwin 初始配置模板，专为新手制作.
+
+## dotnet 
+
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 
 ## electron 
 
@@ -683,6 +689,7 @@
 
 ## others 
 
+- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 - [dotdc/prometheus-cardinality](https://github.com/dotdc/prometheus-cardinality) - 
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
