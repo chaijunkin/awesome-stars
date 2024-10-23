@@ -538,7 +538,7 @@
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output
 - [auricom/home-ops](https://github.com/auricom/home-ops) - My home Kubernetes (talos) cluster managed by GitOps (Flux2) and serviced with RenovateBot
 - [brettinternet/homeops](https://github.com/brettinternet/homeops) - devops resources in my self-hosted homelab
-- [larivierec/home-cluster](https://github.com/larivierec/home-cluster) - talos cluster using gitops (flux) and renovate automation
+- [larivierec/home-cluster](https://github.com/larivierec/home-cluster) - talos cluster using gitops and renovate automation
 - [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [JJGadgets/Biohazard](https://github.com/JJGadgets/Biohazard) - Watch your step, this playground might be hazardous 'round here… | JJGadgets' HomeLab monorepo
 - [danmanners/homelab-kube-cluster](https://github.com/danmanners/homelab-kube-cluster) - Dan's Homelab Kubernetes Cluster - Operated through Kustomize & ArgoCD
