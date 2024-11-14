@@ -18,6 +18,7 @@
 - [Jsonnet](#jsonnet)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Mako](#mako)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
 - [Nix](#nix)
@@ -192,6 +193,10 @@
 ## Lua 
 
 - [JJGadgets/Biohazard](https://github.com/JJGadgets/Biohazard) - Watch your step, this playground might be hazardous 'round here… | JJGadgets' HomeLab monorepo
+
+## Mako 
+
+- [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 
 ## Markdown 
 
