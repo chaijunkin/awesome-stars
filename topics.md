@@ -18,6 +18,7 @@
 - [azure](#azure)
 - [bash](#bash)
 - [bitcoin](#bitcoin)
+- [blockchain](#blockchain)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
@@ -219,7 +220,12 @@
 
 ## bitcoin 
 
+- [BlueWallet/BlueWallet](https://github.com/BlueWallet/BlueWallet) - Bitcoin wallet for iOS & Android. Built with React Native
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+
+## blockchain 
+
+- [BlueWallet/BlueWallet](https://github.com/BlueWallet/BlueWallet) - Bitcoin wallet for iOS & Android. Built with React Native
 
 ## c 
 
@@ -266,6 +272,7 @@
 
 ## cryptocurrency 
 
+- [BlueWallet/BlueWallet](https://github.com/BlueWallet/BlueWallet) - Bitcoin wallet for iOS & Android. Built with React Native
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
 ## cryptography 
@@ -887,6 +894,7 @@
 
 ## react-native 
 
+- [BlueWallet/BlueWallet](https://github.com/BlueWallet/BlueWallet) - Bitcoin wallet for iOS & Android. Built with React Native
 - [victorbalssa/abacus](https://github.com/victorbalssa/abacus) - 🟠 Abacus: Firefly III mobile application.
 
 ## reactjs 
