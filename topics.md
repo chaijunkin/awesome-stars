@@ -794,6 +794,7 @@
 
 ## others 
 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
