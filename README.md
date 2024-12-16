@@ -17,6 +17,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jsonnet](#jsonnet)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Mako](#mako)
@@ -199,6 +200,10 @@
 
 - [adinhodovic/argo-cd-mixin](https://github.com/adinhodovic/argo-cd-mixin) - Monitoring mixin for ArgoCD. A set of Grafana dashboards and Prometheus rules for ArgoCD.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
+
+## Jupyter Notebook 
+
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 
 ## Kotlin 
 
