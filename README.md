@@ -360,7 +360,7 @@
 
 ## TypeScript 
 
-- [j3sch/logseq-clipper](https://github.com/j3sch/logseq-clipper) - Official web clipper extension for Obsidian.
+- [j3sch/logseq-clipper](https://github.com/j3sch/logseq-clipper) - A browser extension for capturing web content directly into your Logseq graph. Adapted from Obsidian's Web Clipper.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [excalidraw/excalidraw-room](https://github.com/excalidraw/excalidraw-room) - 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
