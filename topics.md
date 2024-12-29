@@ -22,7 +22,9 @@
 - [blockchain](#blockchain)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
+- [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -261,10 +263,20 @@
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 
+## chatbot 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
 ## chatgpt 
 
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code In
+
+## chatgpt-api 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## chrome 
 
@@ -334,6 +346,7 @@
 
 ## deep-learning 
 
+- [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 
 ## devops 
@@ -495,6 +508,7 @@
 
 ## hacktoberfest 
 
+- [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub.
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
@@ -654,6 +668,7 @@
 
 ## language 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 
 ## laravel 
@@ -697,6 +712,7 @@
 
 ## machine-learning 
 
+- [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 
@@ -770,6 +786,7 @@
 
 ## natural-language-processing 
 
+- [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 
 ## neovim 
@@ -782,6 +799,7 @@
 
 ## nextjs 
 
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -825,6 +843,8 @@
 
 ## others 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [CloverHackyColor/CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
@@ -948,6 +968,7 @@
 
 ## python 
 
+- [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact, analyze and structure massive text, image, embedding, audio and video datasets
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -962,6 +983,7 @@
 
 ## pytorch 
 
+- [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 
 ## qt 
@@ -976,6 +998,7 @@
 
 ## react 
 
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
