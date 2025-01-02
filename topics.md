@@ -640,7 +640,7 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
+- [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - Family-friendly HomeOps driven by Kubernetes and GitOps using Flux
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [cschmittiey/k8s-homelab](https://github.com/cschmittiey/k8s-homelab) - my homelab, declared in a whole bunch of yaml.
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
