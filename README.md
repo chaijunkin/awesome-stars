@@ -105,6 +105,8 @@
 
 ## Go 
 
+- [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [prometheus-community/yet-another-cloudwatch-exporter](https://github.com/prometheus-community/yet-another-cloudwatch-exporter) - Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
