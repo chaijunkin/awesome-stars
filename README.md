@@ -71,7 +71,7 @@
 ## C++ 
 
 - [locaal-ai/obs-backgroundremoval](https://github.com/locaal-ai/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [dev47apps/droidcam-obs-plugin](https://github.com/dev47apps/droidcam-obs-plugin) - DroidCam OBS Source
@@ -372,7 +372,7 @@
 - [drag0n141/home-ops](https://github.com/drag0n141/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
 - [ryanrudolfoba/SteamOS-Waydroid-Installer](https://github.com/ryanrudolfoba/SteamOS-Waydroid-Installer) - Script to easily install / uninstall Android via Waydroid on the Steam Deck running on SteamOS.
-- [Suwayomi/docker-tachidesk](https://github.com/Suwayomi/docker-tachidesk) - Run Suwayomi-Server in a docker container
+- [Suwayomi/Suwayomi-Server-docker](https://github.com/Suwayomi/Suwayomi-Server-docker) - Run Suwayomi-Server in a docker container
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [mirceanton/home-ops](https://github.com/mirceanton/home-ops) - Monorepo to manage my Home Lab.
