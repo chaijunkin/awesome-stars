@@ -982,6 +982,7 @@
 
 ## others 
 
+- [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - [graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics) - 
 - [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) - Learn ML engineering for free in 4 months!
