@@ -165,7 +165,6 @@
 
 ## HCL 
 
-- [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - Family-friendly HomeOps driven by Kubernetes and GitOps using Flux
 - [chkpwd/iac](https://github.com/chkpwd/iac) - 
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [chaijunkin/home-ops](https://github.com/chaijunkin/home-ops) - K3s Cluster powered by proxmox
@@ -366,6 +365,7 @@
 - [perryhuynh/homelab](https://github.com/perryhuynh/homelab) - Homelab GitOps Repository
 - [h-wb/home-ops](https://github.com/h-wb/home-ops) - Gitop driven Homelab with Kubernetes and Flux
 - [ajrosen/Bitwarden-Accelerator](https://github.com/ajrosen/Bitwarden-Accelerator) - Alfred Workflow to make using Bitwarden faster and smoother with all applications
+- [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - Family-friendly HomeOps driven by Kubernetes and GitOps using Flux
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [cschmittiey/k8s-homelab](https://github.com/cschmittiey/k8s-homelab) - my homelab, declared in a whole bunch of yaml.
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
