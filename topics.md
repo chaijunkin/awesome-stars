@@ -511,7 +511,7 @@
 ## finance 
 
 - [victorbalssa/abacus](https://github.com/victorbalssa/abacus) - 🟠 Abacus: Firefly III mobile application.
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 
 ## firefox 
@@ -1101,7 +1101,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 
 ## powershell 
 
@@ -1201,7 +1201,7 @@
 
 ## ruby 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 
 ## rust 
 
