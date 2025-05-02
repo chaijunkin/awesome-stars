@@ -383,7 +383,7 @@
 
 ## Smarty 
 
-- [bjw-s/helm-charts](https://github.com/bjw-s/helm-charts) - A collection of Helm charts
+- [bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts) - A collection of Helm charts
 
 ## Swift 
 
