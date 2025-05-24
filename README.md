@@ -21,7 +21,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [Mako](#mako)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
 - [Nix](#nix)
@@ -108,6 +107,7 @@
 
 ## Go 
 
+- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [kubernetes-sigs/scheduler-plugins](https://github.com/kubernetes-sigs/scheduler-plugins) - Repository for out-of-tree scheduler plugins based on scheduler framework.
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
@@ -253,10 +253,6 @@
 ## Lua 
 
 - [JJGadgets/Biohazard](https://github.com/JJGadgets/Biohazard) - Glorifying jank that works | JJGadgets' HomeLab monorepo
-
-## Mako 
-
-- [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 
 ## Markdown 
 
@@ -423,6 +419,7 @@
 - [excalidraw/excalidraw-room](https://github.com/excalidraw/excalidraw-room) - 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [BlueWallet/BlueWallet](https://github.com/BlueWallet/BlueWallet) - Bitcoin wallet for iOS & Android. Built with React Native
+- [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
