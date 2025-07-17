@@ -633,7 +633,6 @@
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [Suwayomi/Suwayomi-Server-docker](https://github.com/Suwayomi/Suwayomi-Server-docker) - Run Suwayomi-Server in a docker container
