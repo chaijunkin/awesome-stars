@@ -1029,6 +1029,8 @@
 
 ## others 
 
+- [home-operations/charts-mirror](https://github.com/home-operations/charts-mirror) - A temporary "mirror" of Helm Charts published to OCI
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
 - [5mdld/anki-jlpt-decks](https://github.com/5mdld/anki-jlpt-decks) - 【简体・繁體中文】【egg rolls】JLPT N1～N5 单词＋补充（含语音、例句）；Anki，日语，日文，日本語，牌组，卡组，牌組，卡組，能力考，日檢
@@ -1295,6 +1297,7 @@
 
 ## self-hosted 
 
+- [home-operations/containers](https://github.com/home-operations/containers) - Our collection of container images
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
