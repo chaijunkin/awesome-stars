@@ -178,7 +178,6 @@
 ## HCL 
 
 - [chkpwd/iac](https://github.com/chkpwd/iac) - 
-- [chaijunkin/home-ops](https://github.com/chaijunkin/home-ops) - K3s Cluster powered by proxmox
 - [chaijunkin/old-home-ops](https://github.com/chaijunkin/old-home-ops) - Home service cluster
 - [Neutrollized/free-tier-gke](https://github.com/Neutrollized/free-tier-gke) - Run your very own GKE cluster at a steep discount!
 - [larivierec/home-cluster](https://github.com/larivierec/home-cluster) - Talos cluster using gitops and renovate automation
@@ -478,6 +477,7 @@
 - [drag0n141/home-ops](https://github.com/drag0n141/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
+- [chaijunkin/home-ops](https://github.com/chaijunkin/home-ops) - K3s Cluster powered by proxmox
 - [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
